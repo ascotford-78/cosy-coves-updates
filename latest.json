@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "url": "https://github.com/ascotford-78/cosy-coves-updates/releases/download/v1.0.1/cosycoves-1.0.1_encrypted.zip",
+  "sessionKey": "odhLcztrBG3/mxRmBudPZw==:jgcZTctSjlypZejVAIAwXOj3d54TiZ4DqtxVUZSPaO18bUQJsZA8crQF2TgVVYdCJyCUErhRhGUqNZy7O3cfcbvEqdsRc7qVvaPEeolaCnIe7TarqZcZt5FTveJQjgW+GV2+M3PJFo1/AxZsZ/3lhnGhwk6WgTviP+FwEUc0BrJyM1BfKMtU54E7cmUHQfK/a8i94Nqw2PqkFhLMcN7/1epo3LqXr8ciN7nXZwQaTO6UdFYAopZ/LEhibusLOrf28r+EPh8ZCXLBjvqj97M9r+VdR/RY3ywlE+X/YlA3Wni89DN470MypV9+iO0saNkswTWWgqHFTytd6MGTvEON+Q==",
+  "checksum": "25577d7a74b4abc9a0e3d601b80ca30b7cba78de5a45488cd13bbfad4abe9281a025bbb2bc9ed41fa9c4089bcf72ee2640efdd85481714fc727f5445f7a593d6ecacb06003c7e77523bbbfeda303a4fd841685072d273a897f0278b1b308a4d5538eab0ec122ede9a4f598117333e774af24983df5820e62b9e1b78f556e6dd7715a926acfdc80eb80eae7371764103a907df4c141cc6c6d697bc6871a2cf61feac376be12a158950cd9edc29b1be0e0878383ca36eab726078f14e56771ae852b958e8f2917e88060f45fe64c842b8ff14fdb41ddf44210fb3c9bc8ace84908b1bd2b33ec679640ea956b8865f6aa835b6db62599439363861653416dc93842",
+  "minNative": "1.0",
+  "notes": "First over-the-air test update",
+  "published": "2026-10-03T20:43:49.042Z"
+}
