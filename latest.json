@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/ascotford-78/cosy-coves-updates/releases/download/v1.0.2/cosycoves-1.0.2_encrypted.zip",
-  "sessionKey": "e9V+gtG5Ab0B2NhuoLVDXQ==:3czGrSgLyzDDjJBvVI+yP4mxFe8e0WTTUTLqrxOHUSYZo0Rt6z4gidzcfsc2AZv4OLnQKVh4sJlzpQm5RpruB3Nv7wvNxKxR/btFqD/L4gPAFX0NDvy6IY4KookxTeRTVdsm/tt7MJVEW28q8080GBH+kIBRZ2bKSUDCNPrBUWzf0PFJuyqhQxU/k2BohUMQ2EeWsqx0EoZeWllDJyBIpynJJqVojQyrksmHCFrDuO+lm/QVOeGvbfkh6VOy6WlqhUgzGjqnxQsxq8LmQSYc8LuIpl16KY9BIHkPKzI1c52DRVBZy9l83k+WmNkAPrtJpR1WbR4lMlU93uTOApi0dg==",
-  "checksum": "adaec42fc9bbbc21ccb86b3f42881eeb31bb37118fbc33a124a65948c5cfdac303ef09e51b3b494f27b66b3ebde4aa0412ec1152152ef05bc755cf8f096469a0e38a970c21001f99f5a177d19c567a4e5c950af03d64d8df582be988d816768344aa23200235463051af74e57516d23381edb498010e8b7ac9866086b7137334915d20325d7755717d271e17f75939454605a2dc78a82d52f53c1e5d89a3ca2c150bcdb314cdb75e8f11e4e1be0d49318bda3f66baee67a53c363dc7aa81b05e1dd641128885e13601933118ae3c7d91d8faaec2e117b997d770cadf87d22b9bd3a3fbbb29c55c304e5fa4f00321cf69903cab0c7297b732b9db0211c6389fcb",
+  "version": "1.0.3",
+  "url": "https://github.com/ascotford-78/cosy-coves-updates/releases/download/v1.0.3/cosycoves-1.0.3_encrypted.zip",
+  "sessionKey": "35RSB1PNDSmiY0acZvG2YA==:b0Uf8D7afY1cYrn7pvy/4DqShd7uNxWAlli01960zbac5qzL2Vav8gevPLe9+l/usg6SXdKOvafOypL0YlB9i3mDusI85U1R0F8wkS9L52j5g3lEcALzl7LKSw3tA5UNimwtIUIUEluor01hDunyg3blZJWfQMnKLHrH789s14fvherDucsE68/afOUXkUsn9LsVOFySRJqlCyUdfQcNYv085Zx3OkrWjxZLSVx8IbpwNRJogT/MKg3G7OysYu/mS9Xumy80YJYum4GKqGxTwjIAtWaVEZU1/NZIx9oiIw53bEk4Xx7lKEPsm+L4nrATe2Xa1GAlWZua14bSmNDGLQ==",
+  "checksum": "021dcf48365f3fa52404173b9a5362e7b3e0b013cdcd4efa69eae369d92f2d83bddb1ae9cb036046feb7a5c40b348b6d860d2b4737e85fa1b79783fb073e7434ec3b0cdf9d3d5142827f7e2a175cbe4dab6175d6f3ba454f01fd2d73d99126629b9e87db9a55765c24cf098c21891fdf970b26abead5f887edb75f375d7f34e49eddb2106b7af1f5edcaf46440c6675b25f4300b08bf7c1e715404dd2c4db5b4f4c73d172b97cf5a04cf6d5ff9c1973a5adb34a730c14ff64168508301c634f22ef9913f262881f3d55060b732514b4d04f680cd84375ea12aed0b5e8e646fd5c07cc1415cfdbef797abbb0ebcba3a23292919aae80568cc7cb106fa4375e3b2",
   "minNative": "1.0",
-  "notes": "New loading screen, World Pass (iPhone), phone layout",
-  "published": "2026-10-03T22:31:52.142Z"
+  "notes": "World Pass screen no longer gets stuck loading the price",
+  "published": "2026-10-05T20:37:47.004Z"
 }
