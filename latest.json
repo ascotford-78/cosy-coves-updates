@@ -1,9 +1,9 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/ascotford-78/cosy-coves-updates/releases/download/v1.0.7/cosycoves-1.0.7_encrypted.zip",
-  "sessionKey": "CkFjAkU4a/EB5rpqxO/VQw==:Sxy9DwmSnc9ySBiKKFrdxPHOkd8WT0D0hJ3mGP2MpRC/QB0hSdGQtMXCyfKc0g3ee4yOIwmlYorsF2UTk7XibIKu4utsSKU9AgtetQIMMDR7i2zwj9GE/iyNK0lIjpXuWmHdj5eqhmd2+xkc9FflM2oZEaXpWokZRDiSo0vBdlyjxQl2eJJ/8uj9MQUxxN3hJ9dfc6/NDjBhaLGxLGsavgCTd8hhfzhANWVguqUDwJvagsVa9L19eKG1Us86YjPPyzUI6SOoaifkxrGdXvVkbcnJ1IDNd+zCg789jsUWc0fUeWIzlxTu3YopIVm3YvHMP3gDFXbC1p5pfBRtp46NKg==",
-  "checksum": "462b44e6da943100b43a5c5af97190f02f77521366957d8cb24ab4e437423e26c23b38261d7d33839b9f75f022ff80aa262ca52dfea59fd8d338d6a4197ef5ca9c63f72b7e43971907064ce73175a56889fe25cad12a80f22487630c66096433f885b8bebe71da1cf00f61ed9a26bcb1cff6499e07cf6de2aeb6731f97ae24c8e6e0fdff9eb7e7f08d9d2e193e5cc779d2522e705ef9f6610c824a99b949e2249f9840ebf63ee179fa7fe2cf07d7021ad908addec2bdc00f8acf0d216972cbc838aa685fe05a26646d7abeaddd42dd19ba02ae6f4ec84fca9539de0bf6a53f053a53e1e70f232916b3cf24f33151ac414ee25cabc3b9044a9fc491027043299a",
+  "version": "1.0.8",
+  "url": "https://github.com/ascotford-78/cosy-coves-updates/releases/download/v1.0.8/cosycoves-1.0.8_encrypted.zip",
+  "sessionKey": "UYJjyIPTHxM+uLoSjoVbyw==:JMErFnMeIdjcD+ncf8Uug+IiejB8T3l59IYJKgubUCIAuLwYiHOqfkKnl4xNqw3ATboe7wIGzP3Gxj2PLGfcSKNudMbLHHHtQrZjnLA2SbIKvInXVm6I99CWtoeeIGDpfz23+vLNF5Ed84Vm019RLUnGx4RqMgJRhlvL+yHI8rV87+SNTrtdNbxgZn88wGnWFfJRsOwjrHbIxQkTj8MjSJ8akz75yGlh3XpM4g7G7ti++lknqPmtI5R2gIOkgkjDNCMJdLT0gztjeD0nakPmZ4W4TSGWy7oCWyJK9howtuUpSBd0HAvcox/epopo+9tx2uTU2AOgH1cumEsf1jMLow==",
+  "checksum": "0ab1286949243ed20c13d6c5cabbab9f647aa503fc0b64d6b4a48adbbf16e130f1aab66f7d96b182c602f66164aeb8316a8ec0a6b2d493333f78e911ab452d424257577b6d8901e90840f3fe71501be64e4a518be4dfd5b45b4c6aaf95ce682f142795c0aa4f1281e32787d769903e003e3d8139c7f7b41903a8b53726088ea75e491104ee126388db7172966cbc945871ec42214cb7276bb41008dbe950f6a02fd83ae9a9aed62b9d69f43a9281313cd4d88dd29fccda665faf8dad71dfe50189f8b8e42fdd6fe6b9a631f08ea60f90c4e747dd8fc91a7e9441a1861901cbcd1dc47e285cb1eeac58024d050c9338e34fd3dc7ac2b0f926863f5e2339b49a3a",
   "minNative": "1.0",
-  "notes": "Start screen fits neatly on phones",
-  "published": "2026-10-05T21:14:01.942Z"
+  "notes": "Tidier screens on phones",
+  "published": "2026-10-05T21:22:21.206Z"
 }
