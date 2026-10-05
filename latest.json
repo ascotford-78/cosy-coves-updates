@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/ascotford-78/cosy-coves-updates/releases/download/v1.0.5/cosycoves-1.0.5_encrypted.zip",
-  "sessionKey": "ZlpBbS5uLCWalenmpw1gRA==:DRX+LsROYFOhVyUBDBPjF+0lnp9zx+WltUD4hltC4E2m9qubbYwdl8XburPvSyuZzX2EsslAvk3uvReVnsul82txhLDvmRTRMdEXrNj3qRPosPgLdE3LEIPJyzwxU3FT3KQ8aLM/+YrZzm2HsTZ39G/Jo6WcMSsYK5w7C0ZE4xt2JnxpnegW6NaU2957pgUMKej6f+38iRiyWiH562/WOOFVCSnCg4jHeMFnXmwJ+EMjxDE3lH5iSgxoxG9LhzMfzmiBEp5+oR+Ixn/V/G9Jma2f26xpVljdnFJcmzwh5oenj08R5wU/JZcMrpcaC/VNPW5NMBqCKrXV3XKX20tt+A==",
-  "checksum": "9d4890d939f7161133fcf3720aba465adab8083f037b4d8ae97b945adefaedb8a4c735d385a094a476c680f4667486c2e282cc8c643ff48018cf57372b36bd9dbe8f540e3df557d8ea022cef2fcb6d46c31a81b2bf6c352e15a1f0a6147a381e097a6398a019fb752be2cecd34c7c2103b0b464c4f801906c3a6f54ab9a01db7ffea99363df3295800eb413f326343f98d7e0c20da3aed1afd61b5b03a8247b49aa00493ea1273cfbb750df0e661ed1174d20ca7747cbc0af5378f3424e4a0c226f00b9aee1b291ace877a167ce095ff654617197a2c56947cb83ceb8c1ea69c5851f1728c2f49f8c782094e53d1ce3e917a562ad6d9c6524daa65551a115087",
+  "version": "1.0.6",
+  "url": "https://github.com/ascotford-78/cosy-coves-updates/releases/download/v1.0.6/cosycoves-1.0.6_encrypted.zip",
+  "sessionKey": "jfNwhgl1sJGJdjKfxXTIrg==:hIqtVnX2XTszQqwD/Th2BWCxUR/ihMiWq9bcbOnNxlTuBsswmssPLIez3omcvCn2ISofLqf4c0HtwAWrERKBPtYD+32j+bCKQWYO7zNjF/fTVLuvwinEH9buOTRlqotaDQEp8eSBSVD+a9hj89XVTyvdl3JN4S5gRjB4w3OdrZA9I1fiZZbZO4k6SuuRk1lMfeQ7fnr2J722VbIPlRTE7xOQd6lJSjBG5GGm7JOB7/J5q+jfxkfCSV9ydWKRks8mbnCbSpAymvJXgwLWnSKEivSNSeQ1Wz1PPnhHLtB0CT7qBMRRwmOMSHyUi1W92wCUPAGckR3q9C863LSNlda5FQ==",
+  "checksum": "1e01e187d3ac2936b34584c840156315a1a8f7fbc8623074bf007c3502db52916c35bd5db6b709c489252e8c6f4cf125f9586a58329814e3c6570f0cad9085db9377ea3928debec4922da2dce0e876359a0c1d3acc43040fddcf9a0419b5f01a11f2ab32cf06a2e06a08b22a8a75dc0b8470699369cd9c6bbb7905cb1d94c11fc00ff50988a17d8a72610ecf234b0d16c6d8542840a0e0b9a0da51434f3d62253ea428121666c2077736b0d415fc52d2b216cd7c0463b777dc733ba4d53d62ddbd2ce2c351d9fe4dd19962b1776eb24ec3ed73a6e7f51bb47857592ab8f5487d23396a4ccf13616a3a568f4dc949ae1929abfb48a8b903a49d9012c7681723fb",
   "minNative": "1.0",
-  "notes": "World Pass price now loads on iPhone",
-  "published": "2026-10-05T21:01:11.716Z"
+  "notes": "World Pass price and purchase fixed on iPhone",
+  "published": "2026-10-05T21:06:32.762Z"
 }
