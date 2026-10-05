@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/ascotford-78/cosy-coves-updates/releases/download/v1.0.3/cosycoves-1.0.3_encrypted.zip",
-  "sessionKey": "35RSB1PNDSmiY0acZvG2YA==:b0Uf8D7afY1cYrn7pvy/4DqShd7uNxWAlli01960zbac5qzL2Vav8gevPLe9+l/usg6SXdKOvafOypL0YlB9i3mDusI85U1R0F8wkS9L52j5g3lEcALzl7LKSw3tA5UNimwtIUIUEluor01hDunyg3blZJWfQMnKLHrH789s14fvherDucsE68/afOUXkUsn9LsVOFySRJqlCyUdfQcNYv085Zx3OkrWjxZLSVx8IbpwNRJogT/MKg3G7OysYu/mS9Xumy80YJYum4GKqGxTwjIAtWaVEZU1/NZIx9oiIw53bEk4Xx7lKEPsm+L4nrATe2Xa1GAlWZua14bSmNDGLQ==",
-  "checksum": "021dcf48365f3fa52404173b9a5362e7b3e0b013cdcd4efa69eae369d92f2d83bddb1ae9cb036046feb7a5c40b348b6d860d2b4737e85fa1b79783fb073e7434ec3b0cdf9d3d5142827f7e2a175cbe4dab6175d6f3ba454f01fd2d73d99126629b9e87db9a55765c24cf098c21891fdf970b26abead5f887edb75f375d7f34e49eddb2106b7af1f5edcaf46440c6675b25f4300b08bf7c1e715404dd2c4db5b4f4c73d172b97cf5a04cf6d5ff9c1973a5adb34a730c14ff64168508301c634f22ef9913f262881f3d55060b732514b4d04f680cd84375ea12aed0b5e8e646fd5c07cc1415cfdbef797abbb0ebcba3a23292919aae80568cc7cb106fa4375e3b2",
+  "version": "1.0.4",
+  "url": "https://github.com/ascotford-78/cosy-coves-updates/releases/download/v1.0.4/cosycoves-1.0.4_encrypted.zip",
+  "sessionKey": "a57tFjSmJie+dpvD5KIIoA==:Tz2E/M8LoZ7Dbi5SCKaMMI0Iqzu4kTx0S0i2/LHdXhSrd2Pa3Oa2wJ76CSb84RUShwCDfuF+MKmUPTVjYCRi4iJ7VXblcRZj/VJEmkoEGczAC0HVIdeHOl94PNFMi1VCXFRYkLQp5r7dMsz5cHYtGBteBnL0bv14QQNjaPvJfWtxnZ6ZmIBSRONA9gmBWhymjw7iOCe7pr1IdtLQhCkvaTcja8FEYLSiMqnHNK9iTqbwt1nngLnvzCant17JCV67Iq7A6bqh8miLOYr9+JSEPW3k5i3fA4qR0+bFGapBJFsdairEyihi4bmXLPZsRS5epN0zEy1kfv/zHVdCOdiN5g==",
+  "checksum": "9aa42256d983edb55f1046709daf5fc6714c90522710c69e089bf3bfb2550e0b7296337f56d18e7d174530e03adf746e156652cce72824fd4abc4bb05242088e905be2571772d8bd5195a82daa4a01dcd5582b69764b7ab04f8edc748f6f05e39f16dffbf675e801846b8d702ce8e8916b13eaabc7ed1bc5ecf5c3220275b3d2be8bebc6a6273ce61780411a24ceb28202d6791dbe39d8cc81a772511cff43aaef60ad7d7ceb81d242973a42e29d588a0550dd8ed6e8a437fa6a752b9ec0a9817a334ccff64e658ba7286e256c6bf7643bd973e76f925064a07d6c462d34693b955a813e2fc3afd4a58a0ef20ed26101927a69ac2f110ae594055ee96f8361bb",
   "minNative": "1.0",
-  "notes": "World Pass screen no longer gets stuck loading the price",
-  "published": "2026-10-05T20:37:47.004Z"
+  "notes": "World Pass screen shows why the price couldn't load",
+  "published": "2026-10-05T20:55:54.309Z"
 }
